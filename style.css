@@ -37,12 +37,9 @@ h1{
     height: 5px;
     width: 5px;
     border-radius: 55%;
-    /* animation: loading 1.5s ease-in infinite; */
+    animation: loading 1.5s ease-in infinite;
     /* animation: name duration timing-function delay iteration-count direction fill-mode; */
     
-}
-.animation{
-
 }
 @keyframes loading {
     0%{
